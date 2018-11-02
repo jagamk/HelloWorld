@@ -1,3 +1,2 @@
 # HelloWorld
-Slack Git Integration
-Why are comments not posted to Slack ??
+Are we good now
